@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContagiaDOS API", "WebApplication1\ContagiaDOS API.csproj", "{3DA09E88-1B8F-4479-8412-68B3B226557E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DA09E88-1B8F-4479-8412-68B3B226557E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA09E88-1B8F-4479-8412-68B3B226557E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA09E88-1B8F-4479-8412-68B3B226557E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA09E88-1B8F-4479-8412-68B3B226557E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87BAAEF-6CE9-4FF7-AE21-6C3D0CC6F74B}
+	EndGlobalSection
+EndGlobal
